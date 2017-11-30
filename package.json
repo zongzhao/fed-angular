@@ -1,0 +1,10 @@
+{
+  "name": "blog",
+  "description" : "有时间就写写文章~",
+  "keywords" : ["banma", "bm", "fe", "blog", "前端", "vue", "vuex"],
+  "author" : "<yuzongzhao@gmail.com>",
+  "version": "0.1.0",
+  "devDependencies": {
+    
+  }
+}
